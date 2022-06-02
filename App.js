@@ -6,7 +6,6 @@ import { CardModalEdit } from './src/components/card-modal-edit';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Card></Card>
       <CardModalEdit></CardModalEdit>
     </View>
   );
